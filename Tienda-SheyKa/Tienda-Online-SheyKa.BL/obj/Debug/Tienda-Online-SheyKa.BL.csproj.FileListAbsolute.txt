@@ -1,0 +1,10 @@
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\Tienda-Online-SheyKa.BL.dll.config
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\Tienda-Online-SheyKa.BL.dll
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\Tienda-Online-SheyKa.BL.pdb
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\EntityFramework.dll
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\EntityFramework.xml
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\obj\Debug\Tienda-Online-SheyKa.BL.csprojResolveAssemblyReference.cache
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\obj\Debug\Tienda-Online-SheyKa.BL.dll
+C:\Users\Sheyla Zelaya\Desktop\LENGUAJE 4\REPOSITORIOS\Tienda-Online\Tienda-SheyKa\Tienda-Online-SheyKa.BL\obj\Debug\Tienda-Online-SheyKa.BL.pdb
