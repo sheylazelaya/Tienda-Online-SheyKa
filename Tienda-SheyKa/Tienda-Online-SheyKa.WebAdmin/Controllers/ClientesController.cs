@@ -7,6 +7,7 @@ using Tienda_Online_SheyKa.BL;
 
 namespace Tienda_Online_SheyKa.WebAdmin.Controllers
 {
+    [Authorize]
     public class ClientesController : Controller
     {
         ClientesBL _clientesBL;

@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace Tienda_Online_SheyKa.WebAdmin.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         // GET: Home
